@@ -2,7 +2,7 @@
 
 ## 🌐 Socials
 
-![Website](https://img.shields.io/badge/Website-wahyurudiyan.dev-blue?style=flat-square&logo=google-chrome)  
+[![Website](https://img.shields.io/badge/Website-wahyurudiyan.dev-blue?style=flat-square&logo=google-chrome)](https://wahyurudiyan.dev)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyurudiyan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahyurudiyansaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wahyurudiyansaputra) 
 
 
