@@ -34,11 +34,17 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Frameworks
+### 🚀 Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### 🧪 Web Frameworks
+![Gin](https://img.shields.io/badge/Gin-black?style=flat&logo=go&logoColor=00ADD8)
+![Fiber](https://img.shields.io/badge/Fiber-00b894?style=flat&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-2ecc71?style=flat&logo=go&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-3498db?style=flat&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ### 🔧 Tools & Infra
