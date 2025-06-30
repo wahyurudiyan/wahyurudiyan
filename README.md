@@ -103,8 +103,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wahyurudiyan&show_icons=true&count_private=true&hide=issues&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyurudiyan&layout=compact&hide=html&theme=default" />
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=wahyurudiyan&show_icons=true&count_private=true&hide=issues&theme=default" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyurudiyan&layout=compact&hide=html&theme=default" />
 </p>
 
 ---
