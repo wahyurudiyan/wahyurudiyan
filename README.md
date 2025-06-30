@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Wahyu Rudiyan Saputra 👋</h1>
 
 <p align="center">
-  <strong>Senior Backend Software Engineer</strong> who builds resilient, observable, and scalable backend systems using Go, distributed architecture, and cloud-native tools.
+  <strong>Senior Backend Software Engineer</strong> who builds resilient, observable, and scalable backend systems using Go, distributed architecture, and love to learn everything.
 </p>
 
 <p align="center">
