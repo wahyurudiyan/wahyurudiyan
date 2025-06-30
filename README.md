@@ -1,64 +1,109 @@
-# Hi, I’m Wahyu Rudiyan Saputra 👋  
-**Senior Backend Software Engineer** specializing in Go, distributed systems, event-driven architecture, and system observability.
+<h1 align="center">Hi, I’m Wahyu Rudiyan Saputra 👋</h1>
 
-[🌐 Website](https://wahyurudiyan.dev) • [💼 LinkedIn](https://www.linkedin.com/in/wahyurudiyan) • [✉️ Email](mailto:wahyurudiyansaputra@gmail.com) • [📘 Medium](https://medium.com/@wahyurudiyan) • [📁 Resume](https://wahyurudiyan.dev/resume)
+<p align="center">
+  <strong>Senior Backend Software Engineer</strong> who builds resilient, observable, and scalable backend systems using Go, distributed architecture, and cloud-native tools.
+</p>
+
+<p align="center">
+  <a href="https://wahyurudiyan.dev">🌐 Website</a> •
+  <a href="mailto:wahyurudiyansaputra@gmail.com">📫 Email</a> •
+  <a href="https://www.linkedin.com/in/wahyurudiyan">💼 LinkedIn</a> •
+  <a href="https://medium.com/@wahyurudiyan">✍️ Medium</a> •
+  <a href="https://github.com/wahyurudiyan">💻 GitHub</a>
+</p>
 
 ---
 
-## 🚀 Experience Highlights
-- **Sekolah.mu** – Redesigned core payment system (Saga + NATS), reducing production bugs from 350 to just 9 per quarter.
-- **Evermos** – Optimized search service, boosting CTR by 80% and impressions by 60% through smart feature implementation.
-- **Ruangguru** – Built scalable WhatsApp chatbot (100K MPS, 2M+ leads); reduced infra costs by IDR 1B/year.
-- **Bukalapak** – Developed real-time IoT infrastructure and drone tracking UI for warehouse automation.
+## 🚀 About Me
+- 🧠 Passionate about system design, microservices, and event-driven architecture.
+- ⚙️ Advocate for clean code, observability, and developer enablement.
+- 👨‍🏫 Enjoy mentoring, building internal standards, and improving engineering culture.
+- 🌍 Based in Jakarta, Indonesia – open to remote collaborations.
 
 ---
 
-## 💻 Tech Stack:
+## 🏆 Career Highlights
+| Company | Highlights |
+|--------|------------|
+| 🏫 **Sekolah.mu** | Redesigned payment system with **Event-Driven Saga + NATS**, reducing bugs from 350 → 9/quarter. Built observability stack with **OpenTelemetry, Prometheus, Loki, Tempo**. |
+| 🛒 **Evermos** | Boosted **search CTR by 80%**, improved UX features like FAQ, Popular Search, Vouchers. |
+| 🎓 **Ruangguru** | Developed WhatsApp chatbot handling **100K MPS**, generating **2M+ leads**. Cut infra cost by IDR 1B/year. |
+| 🤖 **Bukalapak** | Engineered REST APIs & backend for warehouse IoT robots, drone tracking, and smart kiosks. |
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![NATS](https://img.shields.io/badge/NATS-2A2A2A?style=for-the-badge&logo=nats.io&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-6e36f5?style=for-the-badge&logo=grpc&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-0a0a0a?style=for-the-badge&logo=loki&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-grey?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+### 🔧 Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 🧩 Architecture & Messaging
+![Microservices](https://img.shields.io/badge/Microservices-20232A?style=flat&logo=vercel&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-0A66C2?style=flat&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-6e36f5?style=flat)
+![NATS](https://img.shields.io/badge/NATS-2A2A2A?style=flat&logo=nats.io&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
+
+### 🛢️ Databases & Search
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)
+
+### ☁️ Cloud & Workflow Automation
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Pub/Sub](https://img.shields.io/badge/PubSub-673AB7?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat)
+![EC2](https://img.shields.io/badge/EC2-orange?style=flat)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-005571?style=flat)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat)
+![n8n](https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white)
+
+### 📊 Monitoring & Observability
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-563D7C?style=flat&logo=opentelemetry)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-000000?style=flat&logo=loki)
+![Tempo](https://img.shields.io/badge/Tempo-grey?style=flat)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 
 ---
 
 ## 📘 Currently Learning
-- Go profiling & memory optimization  
-- Distributed tracing & telemetry at scale  
-- Blockchain smart contract development using Rust  
-- Kalman Filter and Sensor Fusion  
+- 🔍 Go memory profiling & optimization  
+- 📡 Distributed tracing at scale  
+- 🔗 Blockchain smart contract development using Rust  
+- 📐 Kalman Filter & Sensor Fusion  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Wahyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyurudiyan&show_icons=true&theme=default&count_private=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyurudiyan&layout=compact&hide=html&theme=default)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wahyurudiyan&show_icons=true&count_private=true&hide=issues&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyurudiyan&layout=compact&hide=html&theme=default" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect!
 
-I’m open to collaboration, mentorship, or just having a meaningful tech chat.  
-Reach me via [Email](mailto:wahyurudiyansaputra@gmail.com) or connect through [LinkedIn](https://www.linkedin.com/in/wahyurudiyan).
+I’m open to collaboration, mentorship, or backend architecture discussions.  
+📫 Reach me at [wahyurudiyansaputra@gmail.com](mailto:wahyurudiyansaputra@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/wahyurudiyan).
