@@ -92,14 +92,6 @@
 
 ---
 
-## 📘 Currently Learning
-- 🔍 Go memory profiling & optimization  
-- 📡 Distributed tracing at scale  
-- 🔗 Blockchain smart contract development using Rust  
-- 📐 Kalman Filter & Sensor Fusion  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
